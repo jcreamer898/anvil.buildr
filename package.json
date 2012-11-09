@@ -2,7 +2,7 @@
   "name": "anvil.buildr",
   "version": "0.0.1",
   "description": "Parses through script tags, pulls out the references and replaces them with concating files.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/jcreamer898/anvil.buildr.git"
